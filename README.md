@@ -1,4 +1,4 @@
-## Hi there 👋 I am a Junior :student: Full Stack Developer from Russia
+## Hi there 👋 I am a Junior :student: Full Stack Developer from Russia ![](https://komarev.com/ghpvc/?username=your-github-Tim2015web&color=blue&style=flat-square)
 
 ### ⭐ About Me
 
