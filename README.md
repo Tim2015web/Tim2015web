@@ -1,7 +1,7 @@
 ### Hi there 👋 I am a Junior :student: Full Stack Developer from Russia
 
 ---
-### :star:: About Me :
+### ⭐ About Me :
 
 - :man_technologist: I’m currently working on websites development in WordPress
 - :computer: I’m currently learning advanced JavaScript
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 - HTML5 + CSS3
 - JavaScript
@@ -34,14 +34,24 @@
 
 ---
 
-### 🏄‍♂️: Soft skills
+### 🏄‍♂️ Soft skills
 
-- 🏫: Higher education
-- 🎓: English (Pre-Intermediate)
-- 🚗: Driver's license (category A, B), personal car
-- 🌎: The skill to seek, assess, and analyze information
-- 🏆: Responsibility for the result
-- 🥋: Active life position and healthy lifestyle
+- 🏫 Higher education
+- 🎓 English (Pre-Intermediate)
+- 🚗 Driver's license (category A, B), personal car
+- 🌎 The skill to seek, assess, and analyze information
+- 🏆 Responsibility for the result
+- 🥋 Active life position and healthy lifestyle
+
+---
+
+### 💼 My projects
+
+#### Sites
+- Kindergarden https://timds.ru/
+- High school https://xn--12-vlcqmrc8c.xn--p1ai/
+- High school https://xn--19-gmcl0b.xn--p1ai/
+
 
 <!--
 
