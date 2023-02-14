@@ -64,10 +64,11 @@
 - Website layout https://tim2015web.github.io/study_html/
 - Web application
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
 
 <!--
-
 // Эмодзи
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-
 -->
