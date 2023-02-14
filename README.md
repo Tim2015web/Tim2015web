@@ -1,24 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am a Junior :student: Full Stack Developer from Russia
 
 ---
-### :man_technologist: About Me :
+### :star:: About Me :
 
-I am a Junior Full Stack Developer :student: from Russia.
-
-- :technologist: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :open_book: Exploring Technical Content Writing.
+- :man_technologist: I’m currently working on websites development in WordPress
+- :computer: I’m currently learning advanced JavaScript
+- :artificial_satellite: I’m looking for a remote job
 - :desert_island: In my free time, I study programming languages, listen to music and read books..
-- :envelope: How to reach me: tim2015web@gmail.com
-
-
-- 🔭 I’m currently working on websites development under WordPress
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
+- 📫 How to reach me: tim2015web@gmail.com
 
 ---
 
