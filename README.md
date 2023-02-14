@@ -58,6 +58,7 @@
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
+- <a href="https://xn--19-gmcl0b.xn--p1ai/">https://xn--19-gmcl0b.xn--p1ai/</a>
 
 #### Study projects
 
