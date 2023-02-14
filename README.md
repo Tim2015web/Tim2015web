@@ -52,6 +52,10 @@
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
 
+#### Study projects
+
+
+
 
 <!--
 
