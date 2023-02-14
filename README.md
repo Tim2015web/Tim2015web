@@ -58,11 +58,11 @@
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
-- <a href="https://xn--19-gmcl0b.xn--p1ai/" target="_blank">https://xn--19-gmcl0b.xn--p1ai/</a>
 
 #### Study projects
 
-
+- Website layout https://tim2015web.github.io/study_html/
+- Web application
 
 
 <!--
