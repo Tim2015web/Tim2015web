@@ -62,7 +62,7 @@
 #### Study projects
 
 - Website layout https://tim2015web.github.io/study_html/
-- Web application
+- Web application https://tim2015web.github.io/tic-tac-toe/
 
 ---
 
