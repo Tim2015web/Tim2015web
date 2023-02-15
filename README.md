@@ -18,8 +18,9 @@
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
 - VS Code
+- Open Server
 - Figma, Photoshop
-- VPN, VipNet, CryptoPro
+- VPN, VipNet, CryptoPro, XCP-ng
 - Windows, Linux, Server OS, Nas
 - Local networks, remote user support
 
@@ -36,6 +37,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="VPN" alt="VPN" height="40"/>
+  <img src="https://xcp-ng.org/assets/img/mainlogo.png" title="XCP-ng" alt="XCP-ng" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" height="40"/>
 </div>
 
