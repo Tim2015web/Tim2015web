@@ -15,7 +15,7 @@
 
 - HTML5 + CSS3
 - JavaScript
-- WordPress, Joomla, Tilda
+- WordPress, Joomla, Tilda, DokuWiki
 - Git
 - VS Code
 - Figma, Photoshop
@@ -30,6 +30,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" title="WordPress" alt="WordPress" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" title="Joomla" alt="Joomla" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tilda_Logo.png" title="Tilda" alt="Tilda" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Dokuwiki_logo.svg" title="DokuWiki" alt="DokuWiki" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" alt="Git" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" height="40"/>
