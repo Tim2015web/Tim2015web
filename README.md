@@ -63,7 +63,8 @@
 
 #### Study projects
 
-- Website layout https://tim2015web.github.io/study_html/
+- Website layout noemi-theme https://tim2015web.github.io/study_html/
+- Website layout free-business-theme https://tim2015web.github.io/layouts_free-business-theme/
 - Web application https://tim2015web.github.io/tic-tac-toe/
 
 ---
