@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages and Tools
 
-- HTML5 + CSS3, SCSS, BEM methodology, Perfect Pixel
+- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
 - JavaScript
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
