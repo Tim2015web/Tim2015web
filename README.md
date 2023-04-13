@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages and Tools
 
-- HTML5 + CSS3
+- HTML5 + CSS3, SCSS, BEM methodology, Perfect Pixel
 - JavaScript
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
@@ -39,6 +39,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="VPN" alt="VPN" height="40"/>
   <img src="https://xcp-ng.org/assets/img/mainlogo.png" title="XCP-ng" alt="XCP-ng" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg" title="SASS" alt="S" height="40"/>
 </div>
 
 ---
