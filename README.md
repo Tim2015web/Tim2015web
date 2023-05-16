@@ -64,6 +64,7 @@
 
 #### Study projects
 
+- Website layout online-courses https://tim2015web.github.io/layout_partner-with-konstruct/
 - Website layout partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
 - Website layout finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
 - Website layout noemi-theme https://tim2015web.github.io/study_html/
