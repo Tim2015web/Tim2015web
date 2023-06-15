@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages and Tools
 
-- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
+- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel, npm, Gulp
 - JavaScript
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
@@ -40,6 +40,9 @@
   <img src="https://xcp-ng.org/assets/img/mainlogo.png" title="XCP-ng" alt="XCP-ng" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS" alt="S" height="40"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="Icon__npm" height="40"/>
+  <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" title="Icon__Gulp" alt="S" height="40"/>
 </div>
 
 ---
