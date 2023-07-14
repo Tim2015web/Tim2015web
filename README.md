@@ -13,8 +13,6 @@
 - Email: tim2015web@gmail.com
 - Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
 
----
-
 ### 🛠️ Languages and Tools
 
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel, npm, Gulp
