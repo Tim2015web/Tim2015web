@@ -1,3 +1,22 @@
+# Hello everyone, 👋 I'm a Junior Frontend Developer from Russia
+
+## ⭐ About Me
+
+- 👨‍💻 Currently working on website development
+- 💻 Learning advanced JavaScript
+- 🛰️ Seeking remote work opportunities
+- 🏝️ In my free time, I study programming languages, listen to music, and read books.
+- ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
+
+## 📫 Contact Me
+
+- Email: tim2015web@gmail.com
+- Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
+
+
+
+
+
 ## Hello everyone, 👋 I'm a Junior Frontend Developer from Russia ![](https://komarev.com/ghpvc/?username=your-github-Tim2015web&color=blue&style=flat-square)
 
 ### ⭐ About Me
