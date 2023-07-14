@@ -49,11 +49,11 @@
 ### 🏄‍♂️ Soft skills
 
 - 🏫 Higher education
-- 🎓 English (Pre-Intermediate)
-- 🚗 Driver's license (category A, B), personal car
-- 🌎 The skill to seek, assess, and analyze information
-- 🏆 Responsibility for the result
-- 🥋 Active life position and healthy lifestyle
+- 🎓 English proficiency (Pre-Intermediate)
+- 🚗 Driver's license (category A, B) and personal car
+- 🌎 Ability to search, evaluate, and analyze information
+- 🏆 Accountability for delivering results
+- 🥋 Embracing an active lifestyle and maintaining a healthy way of living
 
 ## 💼 My projects
 
