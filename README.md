@@ -13,7 +13,7 @@
 - Email: tim2015web@gmail.com
 - Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel, npm, Gulp
 - JavaScript
@@ -60,17 +60,17 @@
 
 ---
 
-### 💼 My projects
+## 💼 My projects
 
-#### Sites
+### Sites
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
 
-#### Applications
+### Applications
 - HappyCat https://github.com/Tim2015web/HappyCat
 
-#### Study projects
+### Study projects
 
 - Website layout online-courses https://tim2015web.github.io/layout_online-courses/
 - Website layout partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
