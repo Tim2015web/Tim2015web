@@ -4,7 +4,7 @@
 
 - 👨‍💻 Currently working on website development
 - 💻 Learning advanced JavaScript
-- 🛰️ Seeking remote work opportunities
+- 🛰️ Looking for remote work
 - 🏝️ In my free time, I study programming languages, listen to music, and read books.
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
 
@@ -12,21 +12,6 @@
 
 - Email: tim2015web@gmail.com
 - Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
-
-
-
-
-
-## Hello everyone, 👋 I'm a Junior Frontend Developer from Russia ![](https://komarev.com/ghpvc/?username=your-github-Tim2015web&color=blue&style=flat-square)
-
-### ⭐ About Me
-
-- :man_technologist: I’m currently working on websites development in WordPress
-- :computer: I’m currently learning advanced JavaScript
-- :artificial_satellite: I’m looking for a remote job
-- :desert_island: In my free time, I study programming languages, listen to music and read books..
-- ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
-- 📫 How to reach me: e-mail tim2015web@gmail.com, telegram https://t.me/IliaGreenRus
 
 ---
 
