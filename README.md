@@ -8,13 +8,12 @@
 - 🏝️ In my free time, I study programming languages, listen to music, and read books.
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
 
-## 📫 Contact Me
+### 📫 Contact Me
 
 - Email: tim2015web@gmail.com
 - Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
 
-## ⭐ About Me
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel, npm, Gulp
 - JavaScript
