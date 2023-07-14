@@ -1,4 +1,4 @@
-## Hi there 👋 I am a Junior :student: Frontend Developer from Russia ![](https://komarev.com/ghpvc/?username=your-github-Tim2015web&color=blue&style=flat-square)
+## Hello everyone, 👋 I'm a Junior Frontend Developer from Russia ![](https://komarev.com/ghpvc/?username=your-github-Tim2015web&color=blue&style=flat-square)
 
 ### ⭐ About Me
 
