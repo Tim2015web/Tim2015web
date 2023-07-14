@@ -7,7 +7,7 @@
 - :artificial_satellite: I’m looking for a remote job
 - :desert_island: In my free time, I study programming languages, listen to music and read books..
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
-- 📫 How to reach me: e-mail tim2015web@gmail.com, telegram @IliaGreenRus
+- 📫 How to reach me: e-mail tim2015web@gmail.com, telegram https://t.me/IliaGreenRus
 
 ---
 
