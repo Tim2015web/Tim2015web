@@ -42,12 +42,9 @@
   <img src="https://xcp-ng.org/assets/img/mainlogo.png" title="XCP-ng" alt="XCP-ng" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS" alt="S" height="40"/>
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="Icon__npm" height="40"/>
   <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" title="Icon__Gulp" alt="S" height="40"/>
 </div>
-
----
 
 ### 🏄‍♂️ Soft skills
 
@@ -57,8 +54,6 @@
 - 🌎 The skill to seek, assess, and analyze information
 - 🏆 Responsibility for the result
 - 🥋 Active life position and healthy lifestyle
-
----
 
 ## 💼 My projects
 
