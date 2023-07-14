@@ -65,6 +65,9 @@
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
 
+#### Applications
+- HappyCat https://github.com/Tim2015web/HappyCat
+
 #### Study projects
 
 - Website layout online-courses https://tim2015web.github.io/layout_online-courses/
