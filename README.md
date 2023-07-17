@@ -15,7 +15,8 @@
 
 ### 🛠️ Languages and Tools
 
-- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel, npm, Gulp
+- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
+- npm, Gulp
 - JavaScript
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
