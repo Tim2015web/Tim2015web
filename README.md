@@ -64,11 +64,11 @@
 - High school https://xn--19-gmcl0b.xn--p1ai/
 
 ### Applications
-- HappyCat https://github.com/Tim2015web/HappyCat
+- HappyCat https://github.com/Tim2015web/HappyCat/
 
 ### Study projects
 
-- Example Layout Signup Form https://tim2015web.github.io/ExampleSignupForm/
+- Example Layout Signup Form https://github.com/Tim2015web/ExampleSignupForm/
 - Website layout online-courses https://tim2015web.github.io/layout_online-courses/
 - Website layout partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
 - Website layout finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
