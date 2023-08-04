@@ -68,6 +68,7 @@
 
 ### Study projects
 
+- Example Maxima-test-task-01-main https://github.com/Tim2015web/Example__maxima-test-task-01-main/
 - Example Parallax Website https://github.com/Tim2015web/ExampleParallaxWebsite/
 - Example Layout Signup Form https://github.com/Tim2015web/ExampleSignupForm/
 - Website layout online-courses https://tim2015web.github.io/layout_online-courses/
