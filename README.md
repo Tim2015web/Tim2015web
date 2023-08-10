@@ -81,6 +81,11 @@
 - Website layout alto https://tim2015web.github.io/layout_alto/
 - Web application https://tim2015web.github.io/tic-tac-toe/
 
+### Snippets
+
+- Snippet SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
+
+
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
