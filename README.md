@@ -17,7 +17,7 @@
 
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
 - npm, Gulp
-- JavaScript
+- JavaScript, jQuery
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
 - VS Code
@@ -45,6 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS" alt="S" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="Icon__npm" height="40"/>
   <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" title="Icon__Gulp" alt="S" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon.png" title="Icon__jQuery" alt="S" height="40"/>
 </div>
 
 ### 🏄‍♂️ Soft skills
