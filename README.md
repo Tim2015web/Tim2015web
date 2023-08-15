@@ -18,6 +18,7 @@
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
 - npm, Gulp
 - JavaScript, jQuery
+- Slick Slider
 - WordPress, Joomla, Tilda, DokuWiki
 - Git
 - VS Code
