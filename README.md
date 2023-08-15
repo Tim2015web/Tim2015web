@@ -3,7 +3,7 @@
 ## ⭐ About Me
 
 - 👨‍💻 Currently working on website development
-- 💻 Learning advanced JavaScript
+- 💻 Learning React
 - 🛰️ Looking for remote work
 - 🏝️ In my free time, I study programming languages, listen to music, and read books.
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
