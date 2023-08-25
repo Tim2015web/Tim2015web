@@ -83,10 +83,13 @@
 - Website layout alto https://tim2015web.github.io/layout_alto/
 - Web application https://tim2015web.github.io/tic-tac-toe/
 
+### Online courses
+
+- Online Courses - Work Space https://github.com/Tim2015web/OnlineCourses__WorkSpace/
+
 ### Snippets
 
 - Snippet SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
-
 
 ---
 
