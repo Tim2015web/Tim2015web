@@ -89,6 +89,7 @@
 
 ### Snippets
 
+- Snippets - Telegram Bot https://github.com/Tim2015web/Snippets__TelegramBot/
 - Snippet SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
 
 ---
