@@ -1,19 +1,14 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
+<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/coder2.gif" style="max-width: 100%;">
+
 ### ⭐ A little about Me
 
-<div style="display: flex; justify-content: space-between;">
-<div style="max-width: 50%;">
 - 👨‍💻 Currently working on website development
 - 💻 Learning React
 - 🛰️ Looking for remote work
 - 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
-</div>
-<div style="max-width: 50%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/coder2.gif" style="max-width: 100%;">
-</div>
-</div>
 
 ---
 
