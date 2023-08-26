@@ -1,4 +1,4 @@
-# Hello everyone, 👋 I'm a Junior Frontend Developer from Russia
+# Hello everyone, 👋 I'm a Ilia
 
 ## ⭐ About Me
 
