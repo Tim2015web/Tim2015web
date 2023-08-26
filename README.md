@@ -1,6 +1,6 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
-<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/coder2.gif" style="max-width: 100%;">
+<img align="right" height="200" width="auto" src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/coder2.gif" style="max-width: 100%;">
 
 ### ⭐ A little about Me
 
