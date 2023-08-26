@@ -5,7 +5,6 @@
 [![Vk Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
-
 ### ⭐ A little about Me
 
 - 👨‍💻 Currently working on website development
@@ -13,13 +12,6 @@
 - 🛰️ Looking for remote work
 - 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
-
----
-
-### 📫 Contact Me
-
-- Email: tim2015web@gmail.com
-- Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
 
 ---
 
