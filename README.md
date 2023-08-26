@@ -1,4 +1,4 @@
-# Hello everyone, 👋 I'm Ilia
+# Hello everyone, I'm Ilia <img src=assets/smaile__hi.gif" style="max-width: 20px; display: inline-block;">
 
 ## ⭐ About Me
 
