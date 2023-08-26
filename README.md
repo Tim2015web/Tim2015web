@@ -1,4 +1,4 @@
-# Hello everyone, 👋 I'm a Ilia
+# Hello everyone, 👋 I'm Ilia
 
 ## ⭐ About Me
 
