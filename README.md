@@ -1,6 +1,6 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
-## ⭐ A little about Me
+### ⭐ A little about Me
 
 - 👨‍💻 Currently working on website development
 - 💻 Learning React
@@ -8,10 +8,14 @@
 - 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
 
+---
+
 ### 📫 Contact Me
 
 - Email: tim2015web@gmail.com
 - Telegram: [https://t.me/IliaGreenRus](https://t.me/IliaGreenRus)
+
+---
 
 ### 🛠️ Languages and Tools
 
@@ -27,6 +31,8 @@
 - VPN, VipNet, CryptoPro, XCP-ng
 - Windows, Linux, Server OS, Nas
 - Local networks, remote user support
+
+---
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" height="40"/>
