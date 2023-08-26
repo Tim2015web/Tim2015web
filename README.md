@@ -1,19 +1,11 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
-
-
-<h1> <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">Howdy!, I am  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
-
-
-
-
-## ⭐ About Me
+## ⭐ A little about Me
 
 - 👨‍💻 Currently working on website development
 - 💻 Learning React
 - 🛰️ Looking for remote work
-- 🏝️ In my free time, I study programming languages, listen to music, and read books.
+- 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
 
 ### 📫 Contact Me
