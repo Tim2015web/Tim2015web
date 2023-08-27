@@ -37,19 +37,12 @@
 <img alt="WordPress" src="https://img.shields.io/badge/-Word Press-21759B?style=flat-square&logo=wordpress&logoColor=white">
 <img alt="Joomla" src="https://img.shields.io/badge/-Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white">
 <img alt="Tilda" src="https://img.shields.io/badge/-Tilda-000000?style=flat-square&logo=tilda&logoColor=white">
-
-
 <img alt="DokuWiki" src="https://img.shields.io/badge/-DokuWiki-D0E796?style=flat-square&logo=dokuwiki&logoColor=white">
-
-<img alt="Open Server" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
-<img alt="VPN" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
-<img alt="VipNet" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
-<img alt="CryptoPro" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-
-<img alt="XCP-ng" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img alt="Open Server" src="https://img.shields.io/badge/-Open Server-3F4551?style=flat-square&logo=openserver&logoColor=white">
+<img alt="VPN" src="https://img.shields.io/badge/-VPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white">
+<img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=vipnet&logoColor=white">
+<img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=cryptopro&logoColor=white">
+<img alt="XCP-ng" src="https://img.shields.io/badge/-XCP-ng-06062C?style=flat-square&logo=xcp-ng&logoColor=white">
 </p>
 
 <details>
