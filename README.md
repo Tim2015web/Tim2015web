@@ -154,8 +154,8 @@
 
 ### Snippets
 
-- Snippets - Telegram Bot https://github.com/Tim2015web/Snippets__TelegramBot/
-- Snippets - SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
+- [Snippets - Telegram Bot](https://github.com/Tim2015web/Snippets__TelegramBot/)
+- [Snippets - SlickSlider](https://github.com/Tim2015web/Snippet_SlickSlider/)
 
 ---
 
