@@ -118,5 +118,11 @@
 ## 📈 Github Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
+
+<details>
+<summary><b>📄In more detail</b></summary>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim2015web&show_icons=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2015web&layout=compact)
+
+</details>
