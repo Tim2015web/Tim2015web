@@ -122,12 +122,9 @@
 <details>
 <summary><b>📄In more detail</b></summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim2015web&show_icons=true&layout=compact&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2015web&layout=compact&theme=default)
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tim2015web&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim2015web&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tim2015web&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tim2015web&theme=default)
 
 </details>
