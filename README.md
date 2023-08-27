@@ -25,18 +25,30 @@
 
 <details>
   <summary>Details</summary>
-- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel<br>
-    - npm, Gulp<br>
-    - JavaScript, jQuery<br>
-    - Slick Slider
-    - WordPress, Joomla, Tilda, DokuWiki
-    - Git
-    - VS Code```
-    - Open Server
-    - Figma, Photoshop
-    - VPN, VipNet, CryptoPro, XCP-ng
-    - Windows, Linux, Server OS, Nas
-    - Local networks, remote user support
+<br>
+- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
+<br>
+- npm, Gulp
+<br>
+- JavaScript, jQuery
+<br>
+- Slick Slider
+<br>
+- WordPress, Joomla, Tilda, DokuWiki
+<br>
+- Git
+<br>
+- VS Code
+<br>
+- Open Server
+<br>
+- Figma, Photoshop
+<br>
+- VPN, VipNet, CryptoPro, XCP-ng
+<br>
+- Windows, Linux, Server OS, Nas
+<br>
+- Local networks, remote user support
 </details>
 
 
