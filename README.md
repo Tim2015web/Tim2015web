@@ -71,17 +71,42 @@
 
 ## 💼 My projects
 
-<details>
-<summary>### Sites</summary>
-
-
-
-</details>
-
 ### Sites
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Kindergarden</b></td>
+      <td><b>High school</b></td>
+      <td><b>High school</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/worksts/site__1" height=""></td>
+      <td></td>
+      <td></td>
+    </tr>
+	  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><b>📄In more detail</b></summary>
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
+
+</details>
 
 ### Applications
 - HappyCat https://github.com/Tim2015web/HappyCat/
