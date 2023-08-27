@@ -32,17 +32,16 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" style="max-width: 100%;">
-
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg"
 ---
 
 <div>
