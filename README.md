@@ -1,11 +1,6 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tim2015web" alt="page views">
-  <img alt="Read the Docs" src="https://img.shields.io/readthedocs/Tim2015web?logo=read-the-docs">
-  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-</p>
-
+![](https://komarev.com/ghpvc/?username=Tim2015web&color=blue)
 
 [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 [![Linkedin Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
