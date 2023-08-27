@@ -31,7 +31,9 @@
 - Local networks, remote user support
 
 ---
-
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" height="70px" width="70px">
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" height="70px" width="70px">
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg" height="70px" width="70px">
