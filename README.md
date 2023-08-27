@@ -128,6 +128,6 @@
 ![Stats Overview](https://raw.githubusercontent.com/Tim2015web/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Tim2015web/github-stats-transparent/output/generated/languages.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim2015web&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim2015web&show_icons=true&theme=default)
 
 </details>
