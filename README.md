@@ -1,7 +1,6 @@
 # Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
 ![](https://komarev.com/ghpvc/?username=Tim2015web&color=blue)
-
 [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 [![Linkedin Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 [![Vk Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
