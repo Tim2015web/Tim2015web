@@ -32,17 +32,13 @@
 
 ---
 
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__html5.svg" width="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
----_
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__sass.svg" width="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="60px"></code>
+
+---
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" height="40"/>
