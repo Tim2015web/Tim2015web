@@ -117,9 +117,8 @@
 
 ### 📊 Github Stats
 
-![](https://raw.githubusercontent.com/Tim2015web/github-stats-transparent/main/readme_images/light.png)
-![](https://raw.githubusercontent.com/Tim2015web/github-stats-transparent/main/readme_images/light.png)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tim2015web&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim2015web&theme=default)
 
 ---
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
