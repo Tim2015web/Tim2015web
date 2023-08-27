@@ -29,7 +29,7 @@
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img alt="Slick Slider" src="https://img.shields.io/badge/-Slick Slider-3498db?style=flat-square&logo=none&logoColor=white">
-<img alt="BEM methodology" src="https://img.shields.io/badge/-BEM methodology-000000?style=flat-square&logo=none&logoColor=white">
+<img alt="BEM methodology" src="https://img.shields.io/badge/-BEM methodology-000000?style=flat-square&logo=bem&logoColor=white">
 
 
 <img alt="Perfect Pixel" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
