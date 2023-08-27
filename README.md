@@ -8,8 +8,6 @@
 
 ## ⭐ A little about Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tim2015web)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 👨‍💻 Currently working on website development
 - 💻 Learning React
 - 🛰️ Looking for remote work
@@ -27,7 +25,7 @@
 
 <p>
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-F05032?style=flat-square&logo=gulp&logoColor=white">
+<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
 </p>
 
