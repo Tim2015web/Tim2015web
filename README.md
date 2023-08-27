@@ -83,7 +83,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/worksts/site__1" height=""></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/worksts/site__1.jpg" height=""></td>
       <td></td>
       <td></td>
     </tr>
