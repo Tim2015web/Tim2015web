@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Tim2015web@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iliagreenrus)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IliaGreenRus)
-[![Vk Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=Telegram&logoColor=white)](https://vk.com/ilyagreen91)
+[![Vk Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/ilyagreen91)
 
 ## ⭐ A little about Me
 
