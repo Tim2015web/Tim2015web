@@ -71,7 +71,7 @@
 
 ## 💼 My projects
 
-### Sites
+### Works
 
 <table>
   <thead align="center">
@@ -100,14 +100,12 @@
 
 ####
 
-- Kindergarden https://timds.ru/
-- High school https://xn--12-vlcqmrc8c.xn--p1ai/
-- High school https://xn--19-gmcl0b.xn--p1ai/
+- [Kindergarden](https://timds.ru/)
+- [High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
+- [High school](https://xn--19-gmcl0b.xn--p1ai/)
+- [HappyCat](https://github.com/Tim2015web/HappyCat/)
 
 </details>
-
-### Applications
-- HappyCat https://github.com/Tim2015web/HappyCat/
 
 ### Study projects
 
