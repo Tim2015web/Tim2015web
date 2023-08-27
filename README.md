@@ -119,4 +119,4 @@
 
 </details>
 
-![codewars](https://www.codewars.com/users/IliaGreen/badges/smal)
+![codewars](https://www.codewars.com/users/IliaGreen/badges/medium)
