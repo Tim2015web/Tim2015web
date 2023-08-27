@@ -123,4 +123,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2015web&theme=default)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim2015web&show_icons=true&theme=default)
+
 ---
