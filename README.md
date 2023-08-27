@@ -25,13 +25,13 @@
 
 <details>
   <summary>Details</summary>
-    - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
-    - npm, Gulp
-    - JavaScript, jQuery
+- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel<br>
+    - npm, Gulp<br>
+    - JavaScript, jQuery<br>
     - Slick Slider
     - WordPress, Joomla, Tilda, DokuWiki
     - Git
-    - VS Code
+    - VS Code```
     - Open Server
     - Figma, Photoshop
     - VPN, VipNet, CryptoPro, XCP-ng
