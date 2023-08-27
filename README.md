@@ -39,11 +39,16 @@
 <img alt="Tilda" src="https://img.shields.io/badge/-Tilda-000000?style=flat-square&logo=tilda&logoColor=white">
 
 
-<img alt="DokuWiki" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img alt="DokuWiki" src="https://img.shields.io/badge/-DokuWiki-D0E796?style=flat-square&logo=dokuwiki&logoColor=white">
+
 <img alt="Open Server" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+
 <img alt="VPN" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+
 <img alt="VipNet" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+
 <img alt="CryptoPro" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+
 <img alt="XCP-ng" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </p>
 
