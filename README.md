@@ -24,7 +24,8 @@
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
 <p>
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img alt="Gulp" src="https://img.shields.io/badge/-Gulp-F05032?style=flat-square&logo=gulp&logoColor=white">
 </p>
 
 <p>
