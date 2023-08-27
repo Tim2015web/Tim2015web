@@ -55,7 +55,7 @@
 </p>
 
 <details>
-<summary><b>💎In more detail</b></summary>
+<summary><b>📄In more detail</b></summary>
 
 #### 🤖 Hard skills
 
