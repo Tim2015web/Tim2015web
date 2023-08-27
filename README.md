@@ -115,6 +115,6 @@
 
 ---
 
-## 📊 Github Stats
+## 📈 Github Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
