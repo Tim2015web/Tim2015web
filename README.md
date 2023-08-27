@@ -42,7 +42,7 @@
 <img alt="VPN" src="https://img.shields.io/badge/-VPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white">
 <img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=vipnet&logoColor=white">
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=cryptopro&logoColor=white">
-<img alt="XCP-ng" src="https://img.shields.io/badge/-XCP-ng-06062C?style=flat-square&logo=xcp-ng&logoColor=white">
+<img alt="XCP-ng" src="https://img.shields.io/badge/-XCP-ng-06062C?style=flat-square&logo=xcpng&logoColor=white">
 </p>
 
 <details>
