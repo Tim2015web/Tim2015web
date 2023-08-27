@@ -25,6 +25,9 @@
 
 <details>
 <summary>In more detail</summary>
+
+#### 🏄‍♂️ Hard skills
+
 <br>
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React
 <br>
@@ -39,32 +42,8 @@
 - WordPress, Joomla, Tilda, DokuWiki
 <br>
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
-</details>
 
----
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5" alt="HTML" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS3" alt="CSS" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript" alt="JavaScript" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" title="WordPress" alt="WordPress" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/joomla.svg" title="Joomla" alt="Joomla" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tilda_Logo.png" title="Tilda" alt="Tilda" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Dokuwiki_logo.svg" title="DokuWiki" alt="DokuWiki" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" alt="Git" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VS Code" alt="VS Code" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" title="Photoshop" alt="Photoshop" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="VPN" alt="VPN" height="40"/>
-  <img src="https://xcp-ng.org/assets/img/mainlogo.png" title="XCP-ng" alt="XCP-ng" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" title="Linux" alt="Linux" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" title="SASS" alt="S" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" title="npm" alt="Icon__npm" height="40"/>
-  <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" title="Icon__Gulp" alt="S" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" title="Icon__jQuery" alt="S" height="40"/>
-</div>
-
-### 🏄‍♂️ Soft skills
+#### 🏄‍♂️ Soft skills
 
 - 🏫 Higher education
 - 🎓 English proficiency (Pre-Intermediate)
@@ -72,6 +51,12 @@
 - 🌎 Ability to search, evaluate, and analyze information
 - 🏆 Accountability for delivering results
 - 🥋 Embracing an active lifestyle and maintaining a healthy way of living
+</details>
+
+---
+
+
+
 
 ## 💼 My projects
 
