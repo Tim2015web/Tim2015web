@@ -30,7 +30,7 @@
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img alt="Slick Slider" src="https://img.shields.io/badge/-Slick Slider-3498db?style=flat-square&logo=dask&logoColor=white">
 <img alt="BEM methodology" src="https://img.shields.io/badge/-BEM methodology-17a1e6?style=flat-square&logo=bem&logoColor=white">
-<img alt="Perfect Pixel" src="https://img.shields.io/badge/-Perfect Pixel-E4405F?style=flat-square&logo=dask&logoColor=white">
+<img alt="Pixel Perfect" src="https://img.shields.io/badge/-Pixel Perfect-E4405F?style=flat-square&logo=dask&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
@@ -53,7 +53,7 @@
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React
 - Git, Gulp, npm
 - jQuery, Slick Slider
-- BEM methodology, Perfect Pixel
+- BEM methodology, Pixel Perfect
 - VS Code, Figma, Photoshop
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
