@@ -109,6 +109,33 @@
 
 ### Study projects
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Kindergarden</b></td>
+      <td><b>High school</b></td>
+      <td><b>High school</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__1.jpg" width="250px"></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__2.jpg" width="250px"></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__3.jpg" width="250px"></td>
+    </tr>
+	  <tr>
+      <td>https://timds.ru/</td>
+      <td>https://xn--12-vlcqmrc8c.xn--p1ai/</td>
+      <td> https://xn--19-gmcl0b.xn--p1ai/</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><b>📄In more detail</b></summary>
+
+####
+
 - Layout - online-courses https://tim2015web.github.io/layout_online-courses/
 - Layout - partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
 - Layout - finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
@@ -122,6 +149,8 @@
 - Online Courses - Maxima-test-task-01-main https://github.com/Tim2015web/Example__maxima-test-task-01-main/
 - Online Courses - Maxima-test-task-02-main https://github.com/Tim2015web/Example__maxima-test-task-02-main/
 - Online Courses - Maxima-test-task-03-main https://github.com/Tim2015web/Example__maxima-test-task-03-main/
+
+</details>
 
 ### Snippets
 
