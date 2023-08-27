@@ -26,21 +26,14 @@
 <details>
 <summary>In more detail</summary>
 
-#### 🏄‍♂️ Hard skills
+#### 🤖 Hard skills
 
-<br>
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React
-<br>
 - Git, Gulp, npm
-<br>
 - jQuery, Slick Slider
-<br>
 - BEM methodology, Perfect Pixel
-<br>
 - VS Code, Figma, Photoshop
-<br>
 - WordPress, Joomla, Tilda, DokuWiki
-<br>
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
 
 #### 🏄‍♂️ Soft skills
@@ -51,6 +44,7 @@
 - 🌎 Ability to search, evaluate, and analyze information
 - 🏆 Accountability for delivering results
 - 🥋 Embracing an active lifestyle and maintaining a healthy way of living
+
 </details>
 
 ---
