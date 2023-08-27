@@ -119,4 +119,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2015web&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim2015web&layout=compact)
