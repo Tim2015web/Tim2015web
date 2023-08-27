@@ -117,6 +117,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tim2015web&theme=default&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tim2015web&theme=default)
 
+![codewars](https://www.codewars.com/users/IliaGreen/badges/large)
 </details>
-
-![codewars](https://www.codewars.com/users/IliaGreen/badges/medium)
