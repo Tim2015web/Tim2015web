@@ -97,6 +97,7 @@
 
 <details>
 <summary><b>📄In more detail</b></summary>
+
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
 - High school https://xn--19-gmcl0b.xn--p1ai/
