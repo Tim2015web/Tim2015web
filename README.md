@@ -118,3 +118,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tim2015web&theme=default)
 
 </details>
+
+![codewars](https://www.codewars.com/users/Tim2015web/badges/large)
