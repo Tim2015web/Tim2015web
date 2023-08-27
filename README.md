@@ -71,6 +71,13 @@
 
 ## 💼 My projects
 
+<details>
+<summary>### Sites</summary>
+
+
+
+</details>
+
 ### Sites
 - Kindergarden https://timds.ru/
 - High school https://xn--12-vlcqmrc8c.xn--p1ai/
