@@ -88,9 +88,9 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__3.jpg" width="250px"></td>
     </tr>
 	  <tr>
-      <td>https://timds.ru/</td>
-      <td>https://xn--12-vlcqmrc8c.xn--p1ai/</td>
-      <td>https://xn--19-gmcl0b.xn--p1ai/</td>
+      <td>[View the project](https://timds.ru/)</td>
+      <td>[View the project](https://xn--12-vlcqmrc8c.xn--p1ai/)</td>
+      <td>[View the project](https://xn--19-gmcl0b.xn--p1ai/)</td>
     </tr>
   </tbody>
 </table>
