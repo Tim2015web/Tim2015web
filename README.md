@@ -33,7 +33,7 @@
 <img alt="Perfect Pixel" src="https://img.shields.io/badge/-Perfect Pixel-E4405F?style=flat-square&logo=none&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-jQuery-#1A8FF?style=flat-square&logo=photoshop&logoColor=white">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-#1A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 
 
 
