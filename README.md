@@ -31,11 +31,11 @@
 <img alt="Slick Slider" src="https://img.shields.io/badge/-Slick Slider-3498db?style=flat-square&logo=none&logoColor=white">
 <img alt="BEM methodology" src="https://img.shields.io/badge/-BEM methodology-17a1e6?style=flat-square&logo=bem&logoColor=white">
 <img alt="Perfect Pixel" src="https://img.shields.io/badge/-Perfect Pixel-E4405F?style=flat-square&logo=none&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-jQuery-#1A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 
 
-<img alt="Figma" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-<img alt="Photoshop" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 
 <img alt="WordPress" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img alt="Joomla" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
