@@ -100,10 +100,10 @@
 
 ####
 
-- [Kindergarden](https://timds.ru/)
-- [High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
-- [High school](https://xn--19-gmcl0b.xn--p1ai/)
-- [HappyCat](https://github.com/Tim2015web/HappyCat/)
+- [Website - Kindergarden](https://timds.ru/)
+- [Website - High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
+- [Website - High school](https://xn--19-gmcl0b.xn--p1ai/)
+- [Application - HappyCat](https://github.com/Tim2015web/HappyCat/)
 
 </details>
 
