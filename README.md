@@ -27,7 +27,14 @@
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 </p>
+
+jQuery, Slick Slider
+BEM methodology, Perfect Pixel
+VS Code, Figma, Photoshop
+WordPress, Joomla, Tilda, DokuWiki
+Open Server, VPN, VipNet, CryptoPro, XCP-ng
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
