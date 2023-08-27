@@ -90,7 +90,7 @@
 	  <tr>
       <td>https://timds.ru/</td>
       <td>https://xn--12-vlcqmrc8c.xn--p1ai/</td>
-      <td> https://xn--19-gmcl0b.xn--p1ai/</td>
+      <td>https://xn--19-gmcl0b.xn--p1ai/</td>
     </tr>
   </tbody>
 </table>
@@ -112,21 +112,21 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Kindergarden</b></td>
-      <td><b>High school</b></td>
-      <td><b>High school</b></td>
+      <td><b>Work Space</b></td>
+      <td><b>Online courses</b></td>
+      <td><b>Parallax Website</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__1.jpg" width="250px"></td>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__2.jpg" width="250px"></td>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__3.jpg" width="250px"></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__1.jpg" width="250px"></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>
+      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__3.jpg" width="250px"></td>
     </tr>
 	  <tr>
-      <td>https://timds.ru/</td>
-      <td>https://xn--12-vlcqmrc8c.xn--p1ai/</td>
-      <td> https://xn--19-gmcl0b.xn--p1ai/</td>
+      <td>https://github.com/Tim2015web/OnlineCourses__WorkSpace/</td>
+      <td>https://tim2015web.github.io/layout_online-courses/</td>
+      <td>https://github.com/Tim2015web/ExampleParallaxWebsite/</td>
     </tr>
   </tbody>
 </table>
@@ -136,19 +136,19 @@
 
 ####
 
-- Layout - online-courses https://tim2015web.github.io/layout_online-courses/
-- Layout - partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
-- Layout - finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
-- Layout - noemi-theme https://tim2015web.github.io/study_html/
-- Layout - free-business-theme https://tim2015web.github.io/layouts_free-business-theme/
-- Layout - alto https://tim2015web.github.io/layout_alto/
-- Web application - https://tim2015web.github.io/tic-tac-toe/
-- Online Courses - Work Space https://github.com/Tim2015web/OnlineCourses__WorkSpace/
-- Online Courses - Parallax Website https://github.com/Tim2015web/ExampleParallaxWebsite/
-- Online Courses - Layout Signup Form https://github.com/Tim2015web/ExampleSignupForm/
-- Online Courses - Maxima-test-task-01-main https://github.com/Tim2015web/Example__maxima-test-task-01-main/
-- Online Courses - Maxima-test-task-02-main https://github.com/Tim2015web/Example__maxima-test-task-02-main/
-- Online Courses - Maxima-test-task-03-main https://github.com/Tim2015web/Example__maxima-test-task-03-main/
+- [Online Courses - Work Space](https://github.com/Tim2015web/OnlineCourses__WorkSpace/)
+- [Layout - online-courses](https://tim2015web.github.io/layout_online-courses/)
+- [Layout - partner-with-konstruct](https://tim2015web.github.io/layout_partner-with-konstruct/)
+- [Layout - finance-ledger](https://tim2015web.github.io/layouts_finance-ledger/)
+- [Layout - noemi-theme](https://tim2015web.github.io/study_html/)
+- [Layout - free-business-theme](https://tim2015web.github.io/layouts_free-business-theme/)
+- [Layout - alto](https://tim2015web.github.io/layout_alto/)
+- [Web application - Tic Tac Toe](https://tim2015web.github.io/tic-tac-toe/)
+- [Online Courses - Parallax Website](https://github.com/Tim2015web/ExampleParallaxWebsite/)
+- [Online Courses - Layout Signup Form](https://github.com/Tim2015web/ExampleSignupForm/)
+- [Online Courses - Maxima-test-task-01-main](https://github.com/Tim2015web/Example__maxima-test-task-01-main/)
+- [Online Courses - Maxima-test-task-02-main](https://github.com/Tim2015web/Example__maxima-test-task-02-main/)
+- [Online Courses - Maxima-test-task-03-main](https://github.com/Tim2015web/Example__maxima-test-task-03-main/)
 
 </details>
 
