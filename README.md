@@ -24,34 +24,22 @@
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
 <details>
-  <summary>Details</summary>
+<summary>In more detail</summary>
 <br>
-- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
+- HTML5 + CSS3, Sass (SCSS), JavaScript, React
 <br>
-- npm, Gulp
+- Git, Gulp, npm
 <br>
-- JavaScript, jQuery
+- jQuery, Slick Slider
 <br>
-- Slick Slider
+- BEM methodology, Perfect Pixel
+<br>
+- VS Code, Figma, Photoshop
 <br>
 - WordPress, Joomla, Tilda, DokuWiki
 <br>
-- Git
-<br>
-- VS Code
-<br>
-- Open Server
-<br>
-- Figma, Photoshop
-<br>
-- VPN, VipNet, CryptoPro, XCP-ng
-<br>
-- Windows, Linux, Server OS, Nas
-<br>
-- Local networks, remote user support
+- Open Server, VPN, VipNet, CryptoPro, XCP-ng
 </details>
-
-
 
 ---
 
