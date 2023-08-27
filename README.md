@@ -17,6 +17,12 @@
 
 ### 🛠️ Languages and Tools
 
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__html5.svg" width="64px" height="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="64px" height="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__sass.svg" width="64px" height="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="64px" height="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
+
 - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
 - npm, Gulp
 - JavaScript, jQuery
@@ -29,14 +35,6 @@
 - VPN, VipNet, CryptoPro, XCP-ng
 - Windows, Linux, Server OS, Nas
 - Local networks, remote user support
-
----
-
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__html5.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__sass.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="60px"></code>
 
 ---
 
