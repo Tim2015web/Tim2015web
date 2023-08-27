@@ -103,33 +103,30 @@
 - [Website - Kindergarden](https://timds.ru/)
 - [Website - High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
 - [Website - High school](https://xn--19-gmcl0b.xn--p1ai/)
-- [Application - HappyCat](https://github.com/Tim2015web/HappyCat/)
+- [Web application - HappyCat](https://github.com/Tim2015web/HappyCat/)
 
 </details>
 
 ### Study projects
 
-- Website layout online-courses https://tim2015web.github.io/layout_online-courses/
-- Website layout partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
-- Website layout finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
-- Website layout noemi-theme https://tim2015web.github.io/study_html/
-- Website layout free-business-theme https://tim2015web.github.io/layouts_free-business-theme/
-- Website layout alto https://tim2015web.github.io/layout_alto/
-- Web application https://tim2015web.github.io/tic-tac-toe/
-
-### Online courses
-
+- Layout - online-courses https://tim2015web.github.io/layout_online-courses/
+- Layout - partner-with-konstruct https://tim2015web.github.io/layout_partner-with-konstruct/
+- Layout - finance-ledger https://tim2015web.github.io/layouts_finance-ledger/
+- Layout - noemi-theme https://tim2015web.github.io/study_html/
+- Layout - free-business-theme https://tim2015web.github.io/layouts_free-business-theme/
+- Layout - alto https://tim2015web.github.io/layout_alto/
+- Web application - https://tim2015web.github.io/tic-tac-toe/
 - Online Courses - Work Space https://github.com/Tim2015web/OnlineCourses__WorkSpace/
-- Example Parallax Website https://github.com/Tim2015web/ExampleParallaxWebsite/
-- Example Layout Signup Form https://github.com/Tim2015web/ExampleSignupForm/
-- Example Maxima-test-task-01-main https://github.com/Tim2015web/Example__maxima-test-task-01-main/
-- Example Maxima-test-task-02-main https://github.com/Tim2015web/Example__maxima-test-task-02-main/
-- Example Maxima-test-task-03-main https://github.com/Tim2015web/Example__maxima-test-task-03-main/
+- Online Courses - Parallax Website https://github.com/Tim2015web/ExampleParallaxWebsite/
+- Online Courses - Layout Signup Form https://github.com/Tim2015web/ExampleSignupForm/
+- Online Courses - Maxima-test-task-01-main https://github.com/Tim2015web/Example__maxima-test-task-01-main/
+- Online Courses - Maxima-test-task-02-main https://github.com/Tim2015web/Example__maxima-test-task-02-main/
+- Online Courses - Maxima-test-task-03-main https://github.com/Tim2015web/Example__maxima-test-task-03-main/
 
 ### Snippets
 
 - Snippets - Telegram Bot https://github.com/Tim2015web/Snippets__TelegramBot/
-- Snippet SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
+- Snippets - SlickSlider https://github.com/Tim2015web/Snippet_SlickSlider/
 
 ---
 
