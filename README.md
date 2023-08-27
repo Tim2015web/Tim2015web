@@ -5,7 +5,7 @@
 [![Vk Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
 
-### ⭐ A little about Me
+## ⭐ A little about Me
 
 - 👨‍💻 Currently working on website development
 - 💻 Learning React
@@ -13,7 +13,7 @@
 - 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__html5.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="64px" height="60px"></code>
