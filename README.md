@@ -124,9 +124,9 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__3.jpg" width="250px"></td>
     </tr>
 	  <tr>
-      <td>https://github.com/Tim2015web/OnlineCourses__WorkSpace/</td>
-      <td>https://tim2015web.github.io/layout_online-courses/</td>
-      <td>https://github.com/Tim2015web/ExampleParallaxWebsite/</td>
+      <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">View the project</a></td>
+      <td><a href="https://tim2015web.github.io/layout_online-courses/" target="_blank">View the project</a></td>
+      <td><a href="https://github.com/Tim2015web/ExampleParallaxWebsite/" target="_blank">View the project</a></td>
     </tr>
   </tbody>
 </table>
