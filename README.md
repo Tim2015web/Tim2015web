@@ -23,18 +23,23 @@
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
-- HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
-- npm, Gulp
-- JavaScript, jQuery
-- Slick Slider
-- WordPress, Joomla, Tilda, DokuWiki
-- Git
-- VS Code
-- Open Server
-- Figma, Photoshop
-- VPN, VipNet, CryptoPro, XCP-ng
-- Windows, Linux, Server OS, Nas
-- Local networks, remote user support
+<details>
+  <summary>Details</summary>
+    - HTML5 + CSS3, Sass (SCSS), BEM methodology, Perfect Pixel
+    - npm, Gulp
+    - JavaScript, jQuery
+    - Slick Slider
+    - WordPress, Joomla, Tilda, DokuWiki
+    - Git
+    - VS Code
+    - Open Server
+    - Figma, Photoshop
+    - VPN, VipNet, CryptoPro, XCP-ng
+    - Windows, Linux, Server OS, Nas
+    - Local networks, remote user support
+</details>
+
+
 
 ---
 
