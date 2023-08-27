@@ -24,7 +24,7 @@
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
 <details>
-<summary>In more detail</summary>
+<summary><b>In more detail</b></summary>
 
 #### 🤖 Hard skills
 
