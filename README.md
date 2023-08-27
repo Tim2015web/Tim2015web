@@ -41,7 +41,7 @@
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
 <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
-<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg"
+<img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/skills.svg">
 ---
 
 <div>
