@@ -13,7 +13,6 @@
 - 🛰️ Looking for remote work
 - 🏝️ In my free time, I study programming languages, listen to music, and read books
 - ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
-- 📝 Checkout my [Resume](https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/resume.pdf)
 
 ## 🛠️ Languages and Tools
 
@@ -88,8 +87,8 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__3.jpg" width="250px"></td>
     </tr>
 	  <tr>
-      <td><a href="https://timds.ru/" target="_blank">View the project</a></td>
-      <td><a href="https://xn--12-vlcqmrc8c.xn--p1ai/" target="_blank">View the project</a></td>
+      <td><a href="https://timds.ru/" target="_blank">Kindergarden</a></td>
+      <td><a href="https://xn--12-vlcqmrc8c.xn--p1ai/" target="_blank">High school</a></td>
       <td><a href="https://xn--19-gmcl0b.xn--p1ai/" target="_blank">View the project</a></td>
     </tr>
   </tbody>
