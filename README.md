@@ -42,6 +42,7 @@
 <img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=dask&logoColor=white">
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=dask&logoColor=white">
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
+<img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=chatgpt&logoColor=white">
 </p>
 
 <details>
@@ -56,6 +57,7 @@
 - VS Code, Figma, Photoshop
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
+- ChatGPT
 
 #### 🏄‍♂️ Soft skills
 
