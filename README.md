@@ -75,9 +75,9 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Kindergarden</b></td>
-      <td><b>High school</b></td>
-      <td><b>High school</b></td>
+      <td><a href="https://timds.ru/" target="_blank">Kindergarden</a></td>
+      <td><a href="https://xn--12-vlcqmrc8c.xn--p1ai/" target="_blank">High school</a></td>
+      <td><a href="https://xn--19-gmcl0b.xn--p1ai/" target="_blank">High school</a></td>
     </tr>
   </thead>
   <tbody>
@@ -85,11 +85,6 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__1.jpg" width="250px"></td>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__2.jpg" width="250px"></td>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/site__3.jpg" width="250px"></td>
-    </tr>
-	  <tr>
-      <td><a href="https://timds.ru/" target="_blank">Kindergarden</a></td>
-      <td><a href="https://xn--12-vlcqmrc8c.xn--p1ai/" target="_blank">High school</a></td>
-      <td><a href="https://xn--19-gmcl0b.xn--p1ai/" target="_blank">View the project</a></td>
     </tr>
   </tbody>
 </table>
