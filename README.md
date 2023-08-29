@@ -42,7 +42,6 @@
 <img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=dask&logoColor=white">
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=dask&logoColor=white">
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
-<img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-74AA9C?style=flat-square&logo=dask&logoColor=white">
 </p>
 
 <details>
@@ -57,7 +56,6 @@
 - VS Code, Figma, Photoshop
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
-- ChatGPT
 
 #### 🏄‍♂️ Soft skills
 
@@ -120,20 +118,6 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__3.jpg" width="250px"></td>
     </tr>
   </tbody>
-  <thead align="center">
-    <tr border: none;>
-      <td><a href="https://github.com/Tim2015web/Layouts_lawyer_website/" target="_blank">Lawyer Website</a></td>
-      <td><a href="https://tim2015web.github.io/layout_online-courses/" target="_blank">Online courses</a></td>
-      <td><a href="https://github.com/Tim2015web/ExampleParallaxWebsite/" target="_blank">Parallax Website</a></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__4.jpg" width="250px"></td>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__5.jpg" width="250px"></td>
-      <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__6.jpg" width="250px"></td>
-    </tr>
-  </tbody>
 </table>
 
 <details>
@@ -141,6 +125,7 @@
 
 ####
 
+- [Layouts - Lawyer Website](https://github.com/Tim2015web/Layouts_lawyer_website/)
 - [Online Courses - Work Space](https://github.com/Tim2015web/OnlineCourses__WorkSpace/)
 - [Layout - online-courses](https://tim2015web.github.io/layout_online-courses/)
 - [Layout - partner-with-konstruct](https://tim2015web.github.io/layout_partner-with-konstruct/)
