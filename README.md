@@ -139,8 +139,8 @@
 - [Online Courses - Maxima-test-task-01-main](https://github.com/Tim2015web/Example__maxima-test-task-01-main/)
 - [Online Courses - Maxima-test-task-02-main](https://github.com/Tim2015web/Example__maxima-test-task-02-main/)
 - [Online Courses - Maxima-test-task-03-main](https://github.com/Tim2015web/Example__maxima-test-task-03-main/)
-- [Online Courses - React-vladilenminin-1](https://github.com/Tim2015web/React-vladilenminin-1/)
-- [Online Courses - React-vladilenminin-2](https://github.com/Tim2015web/React-vladilenminin-2/)
+- [Online Courses - React-vladilenminin-1](https://github.com/Tim2015web/React_vladilenminin_1/)
+- [Online Courses - React-vladilenminin-2](https://github.com/Tim2015web/React_vladilenminin_2/)
 
 </details>
 
