@@ -42,6 +42,7 @@
 <img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=dask&logoColor=white">
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=dask&logoColor=white">
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
 <details>
@@ -51,7 +52,7 @@
 
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React
 - Git, Gulp, npm
-- jQuery, Slick Slider
+- jQuery, Bootstrap, Slick Slider
 - BEM methodology, Pixel Perfect
 - VS Code, Figma, Photoshop
 - WordPress, Joomla, Tilda, DokuWiki
