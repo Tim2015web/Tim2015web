@@ -125,7 +125,7 @@
 
 ####
 
-- [Layouts - Dev cohorts project (Bootstrap)](https://tim2015web.github.io/dev-cohorts-project/)
+- [Layouts - Dev cohorts project (Bootstrap)](https://github.com/Tim2015web/dev-cohorts-project)
 - [Layouts - Lawyer Website](https://github.com/Tim2015web/Layouts_lawyer_website/)
 - [Online Courses - Work Space](https://github.com/Tim2015web/OnlineCourses__WorkSpace/)
 - [Layout - online-courses](https://tim2015web.github.io/layout_online-courses/)
