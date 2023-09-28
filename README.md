@@ -27,6 +27,7 @@
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 <img alt="Slick Slider" src="https://img.shields.io/badge/-Slick Slider-3498db?style=flat-square&logo=dask&logoColor=white">
 <img alt="BEM methodology" src="https://img.shields.io/badge/-BEM methodology-17a1e6?style=flat-square&logo=bem&logoColor=white">
 <img alt="Pixel Perfect" src="https://img.shields.io/badge/-Pixel Perfect-E4405F?style=flat-square&logo=dask&logoColor=white">
@@ -42,7 +43,6 @@
 <img alt="VipNet" src="https://img.shields.io/badge/-VipNet-EE3124?style=flat-square&logo=dask&logoColor=white">
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=dask&logoColor=white">
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
 <details>
