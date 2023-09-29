@@ -66,7 +66,8 @@
 #### 🏄‍♂️ Soft skills
 
 - 🏫 Higher education
-- 🎓 English proficiency (Pre-Intermediate)
+- 🎓 English proficiency (Intermediate)
+- 💻 Communication, Collaboration, Problem Solving, Adaptability, Learning Agility
 - 🚗 Driver's license (category A, B) and personal car
 - 🌎 Ability to search, evaluate, and analyze information
 - 🏆 Accountability for delivering results
