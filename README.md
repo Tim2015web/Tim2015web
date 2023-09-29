@@ -53,7 +53,7 @@
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React
 - Git, Gulp, npm
 - jQuery, Bootstrap, Slick Slider
-- BEM methodology, Pixel Perfect
+- BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
