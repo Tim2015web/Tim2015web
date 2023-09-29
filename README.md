@@ -23,6 +23,7 @@
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
 <p>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
@@ -44,6 +45,8 @@
 <img alt="CryptoPro" src="https://img.shields.io/badge/-CryptoPro-E6484F?style=flat-square&logo=dask&logoColor=white">
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white">
+<img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white">
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 </p>
 
 <details>
@@ -51,8 +54,8 @@
 
 #### 🤖 Hard skills
 
-- HTML5 + CSS3, Sass (SCSS), JavaScript, React
-- Git, Gulp, npm
+- HTML5 + CSS3, Sass (SCSS), JavaScript, React, TypeScript
+- Git, Gulp, npm, Babel, Node.js
 - jQuery, Bootstrap, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
