@@ -26,6 +26,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
 <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
@@ -55,7 +56,7 @@
 #### 🤖 Hard skills
 
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React, TypeScript
-- Git, Gulp, npm, Babel, Node.js
+- Git, Gulp, Webpack, npm, Babel, Node.js
 - jQuery, Bootstrap, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
