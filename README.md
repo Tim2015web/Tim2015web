@@ -47,7 +47,6 @@
 <img alt="XCP-ng" src="https://img.shields.io/badge/-XCP ng-06062C?style=flat-square&logo=dask&logoColor=white">
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white">
 <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white">
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
@@ -58,11 +57,12 @@
 #### 🤖 Hard skills
 
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
-- Git, Gulp, Webpack, npm, Babel, Node.js
+- Git, Gulp, Webpack, npm, Babel
 - jQuery, Bootstrap, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
 - JSX, XML, JSON
+- MySQL
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
 
