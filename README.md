@@ -48,7 +48,8 @@
 <img alt="JSON" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white">
 <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">  
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 </p>
 
 <details>
@@ -58,7 +59,7 @@
 
 - HTML5 + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Babel
-- jQuery, Bootstrap, Slick Slider
+- jQuery, Bootstrap, Tailwind CSS, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
 - JSX, XML, JSON
