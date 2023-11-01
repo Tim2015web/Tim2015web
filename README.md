@@ -118,7 +118,7 @@
     <tr border: none;>
       <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
       <td><a href="https://tim2015web.github.io/layout_online-courses/" target="_blank">Online courses</a></td>
-      <td><a href="https://github.com/Tim2015web/ExampleParallaxWebsite/" target="_blank">Parallax Website</a></td>
+      <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
     </tr>
   </thead>
   <tbody>
