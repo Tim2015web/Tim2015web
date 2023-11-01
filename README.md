@@ -155,12 +155,12 @@
 - [Online Courses - React-vladilenminin-1](https://github.com/Tim2015web/React_vladilenminin_1/)
 - [Online Courses - React-vladilenminin-2](https://github.com/Tim2015web/React_vladilenminin_2/)
 
-</details>
-
 ### Snippets
 
 - [Snippets - Telegram Bot](https://github.com/Tim2015web/Snippets__TelegramBot/)
 - [Snippets - SlickSlider](https://github.com/Tim2015web/Snippet_SlickSlider/)
+
+</details>
 
 ---
 
