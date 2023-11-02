@@ -63,6 +63,7 @@
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
 - VS Code, Figma, Photoshop
 - JSX, XML, JSON
+- PageSpeed Insights
 - MySQL
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
