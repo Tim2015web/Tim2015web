@@ -60,10 +60,9 @@
 - HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Babel
 - jQuery, Bootstrap, Tailwind CSS, Slick Slider
-- BEM methodology, Pixel Perfect, Code refactoring, Lazy loading
+- BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
 - VS Code, Figma, Photoshop
 - JSX, XML, JSON
-- PageSpeed Insights
 - MySQL
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
