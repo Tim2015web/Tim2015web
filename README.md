@@ -58,7 +58,7 @@
 #### 🤖 Hard skills
 
 - HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
-- Git, Gulp, Webpack, npm, Babel
+- Git, Gulp, Webpack, npm, Yarn, Babel
 - jQuery, Bootstrap, Tailwind CSS, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
 - VS Code, Figma, Photoshop
