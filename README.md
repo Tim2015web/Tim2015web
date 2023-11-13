@@ -51,6 +51,7 @@
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">  
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 </p>
 
 <details>
@@ -59,7 +60,7 @@
 #### 🤖 Hard skills
 
 - HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
-- Git, Gulp, Webpack, npm, Yarn, Babel
+- Git, Gulp, Webpack, npm, Yarn, Babel, Vite
 - jQuery, Bootstrap, Tailwind CSS, Slick Slider
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
 - VS Code, Figma, Photoshop
