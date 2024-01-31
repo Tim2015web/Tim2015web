@@ -138,7 +138,7 @@
 
 ####
 
-- [[Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
+- [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
 - [Reactjs - Shopping Website](https://github.com/Tim2015web/react_shopping-website/)
 - [Reactjs - Thinkop](https://github.com/Tim2015web/react_thinkop/)
 - [Reactjs - The way of the samurai](https://github.com/Tim2015web/reactjs_the-way-of-the-samurai/)
