@@ -60,7 +60,7 @@
   
 <img alt="Swiper" src="https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
 
-<img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=pixso&logoColor=white">
+<img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=desk&logoColor=white">
 </p>
 
 ### 🤖 Hard skills
