@@ -67,7 +67,7 @@
 - Git, Gulp, Webpack, npm, Yarn, Babel, Vite
 - jQuery, Bootstrap, Tailwind CSS, Slick Slider, Swiper
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
-- VS Code, Figma, Photoshop
+- VS Code, Figma, Photoshop, Pixso
 - JSX, XML, JSON
 - MySQL
 - WordPress, Joomla, Tilda, DokuWiki
@@ -106,9 +106,9 @@
   </tbody>
 </table>
 
-- [Website - Kindergarden](https://timds.ru/)
-- [Website - High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
-- [Website - High school](https://xn--19-gmcl0b.xn--p1ai/)
+- [Website (WordPress) - Kindergarden](https://timds.ru/)
+- [Website (WordPress) - High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
+- [Website (WordPress) - High school](https://xn--19-gmcl0b.xn--p1ai/)
 - [Web application - HappyCat](https://github.com/Tim2015web/HappyCat/)
 
 </details>
