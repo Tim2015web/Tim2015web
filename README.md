@@ -126,8 +126,7 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>      
     </tr> 
   </tbody>
-
-    <thead align="center">
+  <thead align="center">
     <tr border: none;>
       <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
       <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
