@@ -99,11 +99,6 @@
   </tbody>
 </table>
 
-<details>
-<summary><b>📄In more detail</b></summary>
-
-####
-
 - [Website - Kindergarden](https://timds.ru/)
 - [Website - High school](https://xn--12-vlcqmrc8c.xn--p1ai/)
 - [Website - High school](https://xn--19-gmcl0b.xn--p1ai/)
