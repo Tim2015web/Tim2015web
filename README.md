@@ -118,13 +118,11 @@
       <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
       <td><a href="https://github.com/Tim2015web/layout_online-courses/" target="_blank">Online courses</a></td>
     </tr>
-
     <tr border: none;>
       <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
       <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
       <td><a href="https://github.com/Tim2015web/layout_online-courses/" target="_blank">Online courses</a></td>
-    </tr>
-    
+    </tr>  
   </thead>
   <tbody>
     <tr>
@@ -132,13 +130,11 @@
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__1.jpg" width="250px"></td>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>      
     </tr>
-
-      <tr>
+    <tr>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__3.jpg" width="250px"></td>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__1.jpg" width="250px"></td>
       <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>      
-    </tr>
-    
+    </tr>    
   </tbody>
 </table>
 
