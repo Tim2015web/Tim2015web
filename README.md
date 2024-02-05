@@ -145,9 +145,9 @@
 ---
 
 <table>
-  <tr>
+  <tr align="center">
     <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
-    <td>[Website (WordPress) - Kindergarden](https://timds.ru/)</td>
+    <td>Текст</td>
     <td>Текст</td>
   </tr>
   <tr>
