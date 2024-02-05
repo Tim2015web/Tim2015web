@@ -146,7 +146,7 @@
 
 <table>
   <tr>
-    <td>[Save the environment](https://github.com/Tim2015web/save-the-environment){:target="_blank" rel="noopener noreferrer"}</td>
+    <td>[Save the environment](https://github.com/Tim2015web/save-the-environment)</td>
     <td>Текст</td>
     <td>Текст</td>
   </tr>
