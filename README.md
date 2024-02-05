@@ -147,7 +147,7 @@
 <table>
   <tr>
     <td>[Save the environment](https://github.com/Tim2015web/save-the-environment)</td>
-    <td>Текст</td>
+    <td>[Website (WordPress) - Kindergarden](https://timds.ru/)</td>
     <td>Текст</td>
   </tr>
   <tr>
