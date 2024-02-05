@@ -113,17 +113,17 @@
 
 <table>
   <tr align="center">
-    <td>Текст</td>
+    <td><a href="https://github.com/Tim2015web/react_travel_x/">React - Travel X</a></td>
     <td>Текст</td>
     <td>Текст</td>
   </tr>
   <tr>
-    <td>![Картинка](ссылка_на_картинку)</td>
+    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__4.jpg" width="250px"></td>
     <td>![Картинка](ссылка_на_картинку)</td>
     <td>![Картинка](ссылка_на_картинку)</td>
   </tr>
   <tr align="center">
-    <td><a href="https://github.com/Tim2015web/save-the-environment">Save the environment</a></td>
+    <td><a href="https://github.com/Tim2015web/save-the-environment/">Save the environment</a></td>
     <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/">Work Space</a></td>
     <td><a href="https://github.com/Tim2015web/layout_online-courses/">Online courses</a></td>
   </tr>
@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-**Other:**
+**Others:**
 
 - [React - React - Travel X](https://github.com/Tim2015web/react_travel_x/)
 - [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
