@@ -146,7 +146,7 @@
 
 <table>
   <tr>
-    <td>[Save the environment](https://github.com/Tim2015web/save-the-environment)</td>
+    <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
     <td>[Website (WordPress) - Kindergarden](https://timds.ru/)</td>
     <td>Текст</td>
   </tr>
