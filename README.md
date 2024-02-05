@@ -146,24 +146,24 @@
 
 <table>
   <tr align="center">
+    <td>Текст</td>
+    <td>Текст</td>
+    <td>Текст</td>
+  </tr>
+  <tr>
+    <td>![Картинка](ссылка_на_картинку)</td>
+    <td>![Картинка](ссылка_на_картинку)</td>
+    <td>![Картинка](ссылка_на_картинку)</td>
+  </tr>
+  <tr align="center">
     <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
-    <td>Текст</td>
-    <td>Текст</td>
+    <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
+    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>
   </tr>
   <tr>
-    <td>![Картинка](ссылка_на_картинку)</td>
-    <td>![Картинка](ссылка_на_картинку)</td>
-    <td>![Картинка](ссылка_на_картинку)</td>
-  </tr>
-  <tr>
-    <td>Текст</td>
-    <td>Текст</td>
-    <td>Текст</td>
-  </tr>
-  <tr>
-    <td>![Картинка](ссылка_на_картинку)</td>
-    <td>![Картинка](ссылка_на_картинку)</td>
-    <td>![Картинка](ссылка_на_картинку)</td>
+    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__3.jpg" width="250px"></td>
+    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__1.jpg" width="250px"></td>
+    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__2.jpg" width="250px"></td>
   </tr>
 </table>
 
