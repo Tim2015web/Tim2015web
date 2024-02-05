@@ -83,8 +83,6 @@
 - 🏆 Accountability for delivering results
 - 🥋 Embracing an active lifestyle and maintaining a healthy way of living
 
-</details>
-
 ## 💼 My projects
 
 ### Works
@@ -111,8 +109,6 @@
 - [Website (WordPress) - High school](https://xn--19-gmcl0b.xn--p1ai/)
 - [Web application - HappyCat](https://github.com/Tim2015web/HappyCat/)
 
-</details>
-
 ### Study projects
 
 <table>
@@ -131,11 +127,6 @@
     </tr>
   </tbody>
 </table>
-
-<details>
-<summary><b>📄In more detail</b></summary>
-
-####
 
 - [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
 - [Reactjs - Shopping Website](https://github.com/Tim2015web/react_shopping-website/)
@@ -166,8 +157,6 @@
 
 - [Snippets - Telegram Bot](https://github.com/Tim2015web/Snippets__TelegramBot/)
 - [Snippets - SlickSlider](https://github.com/Tim2015web/Snippet_SlickSlider/)
-
-</details>
 
 ---
 
