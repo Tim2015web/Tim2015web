@@ -146,7 +146,7 @@
 
 <table>
   <tr align="center">
-    <td>Текст</td>
+    <td>[go](http://stackoverflow.com){:target="_blank" rel="noopener"}</td>
     <td>Текст</td>
     <td>Текст</td>
   </tr>
