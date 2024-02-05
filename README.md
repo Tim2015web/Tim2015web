@@ -57,10 +57,8 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">  
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-  
 <img alt="Swiper" src="https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
-
-<img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=desk&logoColor=white">
+<img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=dask&logoColor=white">
 </p>
 
 ### 🤖 Hard skills
