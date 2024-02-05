@@ -116,7 +116,7 @@
     <tr border: none;>
       <td><a href="https://github.com/Tim2015web/save-the-environment" target="_blank">Save the environment</a></td>
       <td><a href="https://github.com/Tim2015web/OnlineCourses__WorkSpace/" target="_blank">Work Space</a></td>
-      <td><a href="https://tim2015web.github.io/layout_online-courses/" target="_blank">Online courses</a></td>
+      <td><a href="https://github.com/Tim2015web/layout_online-courses/" target="_blank">Online courses</a></td>
     </tr>
   </thead>
   <tbody>
@@ -128,6 +128,7 @@
   </tbody>
 </table>
 
+- [React - React - Travel X](https://github.com/Tim2015web/react_travel_x/)
 - [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
 - [Reactjs - Shopping Website](https://github.com/Tim2015web/react_shopping-website/)
 - [Reactjs - Thinkop](https://github.com/Tim2015web/react_thinkop/)
