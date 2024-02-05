@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-Other:
+**Other:**
 
 - [React - React - Travel X](https://github.com/Tim2015web/react_travel_x/)
 - [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
