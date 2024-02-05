@@ -16,11 +16,11 @@
 
 ## 🛠️ Languages and Tools
 
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
+<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__html5.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__css3.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__sass.svg" width="64px" height="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="64px" height="60px"></code>
-<code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
