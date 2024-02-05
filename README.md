@@ -54,10 +54,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 </p>
 
-<details>
-<summary><b>📄In more detail</b></summary>
-
-#### 🤖 Hard skills
+### 🤖 Hard skills
 
 - HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Yarn, Babel, Vite
@@ -69,7 +66,7 @@
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
 
-#### 🏄‍♂️ Soft skills
+### 🏄‍♂️ Soft skills
 
 - 🏫 Higher education
 - 🎓 English proficiency (Intermediate)
