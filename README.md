@@ -26,10 +26,8 @@
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">  
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-  
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">  
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">  
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
@@ -59,13 +57,17 @@
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">  
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  
+<img alt="Swiper" src="https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
+
+<img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=pixso&logoColor=white">
 </p>
 
 ### 🤖 Hard skills
 
-- HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, React, TypeScript, PHP
+- React, HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Yarn, Babel, Vite
-- jQuery, Bootstrap, Tailwind CSS, Slick Slider
+- jQuery, Bootstrap, Tailwind CSS, Slick Slider, Swiper
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
 - VS Code, Figma, Photoshop
 - JSX, XML, JSON
