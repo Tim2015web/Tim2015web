@@ -114,12 +114,12 @@
 <table>
   <tr align="center">
     <td><a href="https://github.com/Tim2015web/react_travel_x/">React - Travel X</a></td>
-    <td><a href="https://github.com/Tim2015web/test_landing_for_yandex/">Test Landing for Yandex</a></td>
+    <td><a href=""></a></td>
     <td><a href="https://github.com/Tim2015web/personal-portfolio/">Personal Portfolio</a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__4.jpg" width="250px"></td>
-    <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__5.jpg" width="250px"></td>
+    <td><img src="" width="250px"></td>
     <td><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/works/study__6.jpg" width="250px"></td>
   </tr>
   <tr align="center">
