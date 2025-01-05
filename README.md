@@ -65,7 +65,7 @@
 
 - React, HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Yarn, Babel, Vite
-- jQuery, Bootstrap, Tailwind CSS, Slick Slider, Swiper
+- jQuery, Bootstrap, Tailwind CSS, Slick Slider, Swiper, GSAP
 - BEM methodology, Pixel Perfect, Code refactoring, Lazy loading, PageSpeed Insights
 - VS Code, Figma, Photoshop, Pixso
 - JSX, XML, JSON
