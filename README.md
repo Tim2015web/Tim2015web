@@ -1,4 +1,4 @@
-# Hello everyone, I'm Ilia <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
+# Привет всем, я Илья <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
 ![](https://komarev.com/ghpvc/?username=Tim2015web&color=blue)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Tim2015web@gmail.com)
@@ -6,15 +6,15 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IliaGreenRus)
 [![Vk Badge](https://img.shields.io/badge/-VKontakte-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/ilyagreen91)
 
-## ⭐ A little about Me
+## ⭐ О себе
 
-- 👨‍💻 Currently working on website development
-- 💻 Learning React
-- 🛰️ Looking for remote work
-- 🏝️ In my free time, I study programming languages, listen to music, and read books
-- ⚡ Fun fact: The unicorn 🦄 is the national animal of Scotland
+- 👨‍💻 Занимаюсь разработкой веб-приложений и сайтов.
+- 💻 Изучаю и применяю React, JavaScript, HTML, CSS и другие технологии.
+- 🛰️ Работаю удаленно
+- 🏝️ Увлекаюсь изучением новых технологий, слушаю музыку и читаю книги.
+- ⚡ Забавный факт: Единорог 🦄 — национальное животное Шотландии
 
-## 🛠️ Languages and Tools
+## 🛠️ Языки и инструменты
 
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__react.svg" width="64px" height="60px"></code>
 <code><img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/icon__js.svg" width="64px" height="60px"></code>
@@ -61,7 +61,7 @@
 <img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=dask&logoColor=white">
 </p>
 
-### 🤖 Hard skills
+### 🤖 Технические навыки
 
 - React, HTML5 (Flex/Grid) + CSS3, Sass (SCSS), JavaScript, TypeScript, PHP
 - Git, Gulp, Webpack, npm, Yarn, Babel, Vite
@@ -73,19 +73,19 @@
 - WordPress, Joomla, Tilda, DokuWiki
 - Open Server, VPN, VipNet, CryptoPro, XCP-ng
 
-### 🏄‍♂️ Soft skills
+### 🏄‍♂️ Личностные качества
 
-- 🏫 Higher education
-- 🎓 English proficiency (Intermediate)
-- 💻 Communication, Collaboration, Problem Solving, Adaptability, Learning Agility
-- 🚗 Driver's license (category A, B) and personal car
-- 🌎 Ability to search, evaluate, and analyze information
-- 🏆 Accountability for delivering results
-- 🥋 Embracing an active lifestyle and maintaining a healthy way of living
+- 🏫 Высшее образование
+- 🎓 Владение английским (Intermediate)
+- 💻 Навыки коммуникации, сотрудничества, решения проблем, адаптивность, обучение
+- 🚗 Водительские права (категория A, B) и личный автомобиль
+- 🌎 Способность к поиску, оценке и анализу информации
+- 🏆 Ответственность за достижение результатов
+- 🥋 Поддержание активного и здорового образа жизни
 
-## 💼 My projects
+## 💼 Мои проекты
 
-### Works
+### Рабочие
 
 <table>
   <thead align="center">
@@ -109,7 +109,7 @@
 - [Website (WordPress) - High school](https://xn--19-gmcl0b.xn--p1ai/)
 - [Web application - HappyCat](https://github.com/Tim2015web/HappyCat/)
 
-### Study projects
+### Учебные
 
 <table>
   <tr align="center">
@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-**Others:**
+**Остальное:**
 
 - [Layout - Test Landing for Yandex](https://github.com/Tim2015web/test_landing_for_yandex/)
 - [Reactjs - Shopping Website](https://github.com/Tim2015web/react_shopping-website/)
@@ -168,7 +168,7 @@
 
 ---
 
-## 📈 Github Stats
+## 📈 Github статистика
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)
 
