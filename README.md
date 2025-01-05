@@ -59,7 +59,7 @@
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
 <img alt="Swiper" src="https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white">
 <img alt="Pixso" src="https://img.shields.io/badge/-Pixso-EA4AAA?style=flat-square&logo=dask&logoColor=white">
-<img alt="GSAP" src="https://img.shields.io/badge/-GSAP-FF0000?style=flat-square&logo=dask&logoColor=white">
+<img alt="GSAP" src="https://img.shields.io/badge/-GSAP-0AE448?style=flat-square&logo=dask&logoColor=white">
 </p>
 
 ### 🤖 Технические навыки
