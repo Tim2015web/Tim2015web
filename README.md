@@ -9,7 +9,7 @@
 Я работаю с такими технологиями, как:  
 
 - **Языки программирования:** JavaScript, TypeScript, PHP  
-- **Фреймворки и библиотеки:** React, jQuery, Bootstrap, Tailwind CSS, Material UI, Gravity UI, Slick Slider, Swiper, GSAP  
+- **Фреймворки и библиотеки:** React (Hooks, Redux, Zustand, React Router, Context API), jQuery, Bootstrap, Tailwind CSS, Material UI, Gravity UI, Slick Slider, Swiper, GSAP  
 - **Стилизация:** HTML5 (Flex/Grid) + CSS3, Sass (SCSS), BEM methodology  
 - **Инструменты:** Git, Gulp, Webpack, npm, Yarn, Babel, Vite, PageSpeed Insights  
 - **Другое:** MySQL, WordPress, Joomla, Tilda, DokuWiki, Open Server, VPN, VipNet, CryptoPro, XCP-ng  
