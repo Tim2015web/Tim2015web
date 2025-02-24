@@ -39,17 +39,18 @@
 <details>
 <summary><b>📂 Смотреть все проекты</b></summary>
 
-6. [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
-7. [Проект 7](https://github.com/yourusername/project7) - Описание проекта.  
-8. [Проект 8](https://github.com/yourusername/project8) - Описание проекта.  
-...
+- [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
+- [Проект 7](https://github.com/yourusername/project7) - Описание проекта.  
+- [Проект 8](https://github.com/yourusername/project8) - Описание проекта.  
+- ...
 </details>
 
 ## 📞 Контакты  
 
 - Email: [tim2015web@gmail.com](mailto:tim2015web@gmail.com)  
 - LinkedIn: [iliagreen](https://www.linkedin.com/in/iliagreen/)  
-- Telegram: [@IliaGreenRus](https://t.me/IliaGreenRus)  
+- Telegram: [@IliaGreenRus](https://t.me/IliaGreenRus)
+<!-- - hh.ru: [Твоя страница](https://hh.ru/resume/yourpage) -->
 
 ## 🔗 Мой сайт  
 
