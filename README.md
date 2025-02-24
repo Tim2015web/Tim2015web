@@ -50,19 +50,13 @@
 - ...
 </details>
 
-## 📞 Контакты  
-
-- Email: [tim2015web@gmail.com](mailto:tim2015web@gmail.com)  
-- LinkedIn: [iliagreen](https://www.linkedin.com/in/iliagreen/)  
-- Telegram: [@IliaGreenRus](https://t.me/IliaGreenRus)
-<!-- - hh.ru: [Твоя страница](https://hh.ru/resume/yourpage) -->
-
 <!--
 ## 🔗 Мой сайт  
 
 Посетите мой сайт на GitHub Pages:  
 [Твой сайт](https://yourusername.github.io)  
 -->
+
 ## 📈 GitHub статистика  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)  
