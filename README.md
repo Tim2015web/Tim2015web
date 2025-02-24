@@ -43,7 +43,7 @@
 
 <details>
 <summary><b>📂 Смотреть все проекты</b></summary>
-
+<br>
 
 - [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
 - [Проект 7](https://github.com/yourusername/project7) - Описание проекта.  
