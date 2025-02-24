@@ -35,7 +35,7 @@
 
 Вот несколько моих проектов, которые демонстрируют мои навыки:
 
-1. [Проект 1](https://github.com/yourusername/project1) - Описание проекта.  
+1. [Социальная сеть]([https://github.com/yourusername/project1](https://github.com/Tim2015web/social-network)) - учебный проект, социальная сеть на React + Zustand.
 2. [Проект 2](https://github.com/yourusername/project2) - Описание проекта.  
 3. [Проект 3](https://github.com/yourusername/project3) - Описание проекта.  
 4. [Проект 4](https://github.com/yourusername/project4) - Описание проекта.  
