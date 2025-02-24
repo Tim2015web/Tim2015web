@@ -33,13 +33,15 @@
 1. [Проект 1](https://github.com/yourusername/project1) - Описание проекта.  
 2. [Проект 2](https://github.com/yourusername/project2) - Описание проекта.  
 3. [Проект 3](https://github.com/yourusername/project3) - Описание проекта.  
+4. [Проект 4](https://github.com/yourusername/project4) - Описание проекта.  
+5. [Проект 5](https://github.com/yourusername/project5) - Описание проекта.  
 
 <details>
-<summary><b>📄 Вижу все проекты</b></summary>
+<summary><b>📂 Смотреть все проекты</b></summary>
 
-1. [Проект 4](https://github.com/yourusername/project4) - Описание проекта.  
-2. [Проект 5](https://github.com/yourusername/project5) - Описание проекта.  
-3. [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
+6. [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
+7. [Проект 7](https://github.com/yourusername/project7) - Описание проекта.  
+8. [Проект 8](https://github.com/yourusername/project8) - Описание проекта.  
 ...
 </details>
 
