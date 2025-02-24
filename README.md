@@ -44,6 +44,7 @@
 <details>
 <summary><b>📂 Смотреть все проекты</b></summary>
 
+
 - [Проект 6](https://github.com/yourusername/project6) - Описание проекта.  
 - [Проект 7](https://github.com/yourusername/project7) - Описание проекта.  
 - [Проект 8](https://github.com/yourusername/project8) - Описание проекта.  
@@ -60,9 +61,6 @@
 ## 📈 GitHub статистика  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)  
-
-
-
 
 
 
