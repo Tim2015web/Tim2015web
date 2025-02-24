@@ -6,36 +6,39 @@
 
 Я работаю с такими технологиями, как:
 
-- **Языки программирования:** JavaScript, TypeScript, PHP
-- **Фреймворки и библиотеки:** React, jQuery, Bootstrap, Tailwind CSS, Slick Slider, Swiper, GSAP
-- **Стилизация:** HTML5 (Flex/Grid) + CSS3, Sass (SCSS), BEM methodology
-- **Инструменты:** Git, Gulp, Webpack, npm, Yarn, Babel, Vite, PageSpeed Insights
-- **Другое:** MySQL, WordPress, Joomla, Tilda, DokuWiki, Open Server, VPN, VipNet, CryptoPro, XCP-ng
-- **Дизайн и разработки:** VS Code, Figma, Photoshop, Pixso
-- **Форматы:** JSX, XML, JSON
+- **Языки программирования:** JavaScript, TypeScript, PHP  
+- **Фреймворки и библиотеки:** React, jQuery, Bootstrap, Tailwind CSS, Material UI, Gravity UI, Slick Slider, Swiper, GSAP  
+- **Стилизация:** HTML5 (Flex/Grid) + CSS3, Sass (SCSS), BEM methodology  
+- **Инструменты:** Git, Gulp, Webpack, npm, Yarn, Babel, Vite, PageSpeed Insights  
+- **Другое:** MySQL, WordPress, Joomla, Tilda, DokuWiki, Open Server, VPN, VipNet, CryptoPro, XCP-ng  
+- **Запросы и API:** Axios  
+- **Верстка и дизайн:** опыт верстки писем и баннеров, разработка на конструкторе лендингов от Яндекс  
+- **Дизайн и разработки:** VS Code, Figma, Photoshop, Pixso  
+- **Форматы:** JSX, XML, JSON  
 
 ## 🚀 Проекты
 
 Вот несколько моих проектов, которые демонстрируют мои навыки:
 
-1. [Проект 1](https://github.com/yourusername/project1) - Описание проекта.
-2. [Проект 2](https://github.com/yourusername/project2) - Описание проекта.
-3. [Проект 3](https://github.com/yourusername/project3) - Описание проекта.
+1. [Проект 1](https://github.com/yourusername/project1) - Описание проекта.  
+2. [Проект 2](https://github.com/yourusername/project2) - Описание проекта.  
+3. [Проект 3](https://github.com/yourusername/project3) - Описание проекта.  
 
-## 📞 Контакты
+## 📞 Контакты  
 
-- Email: [example@example.com](mailto:example@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/yourusername/)
-- Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- Email: [example@example.com](mailto:example@example.com)  
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/yourusername/)  
+- Telegram: [@yourtelegram](https://t.me/yourtelegram)  
 
-## 🔗 Мой сайт
+## 🔗 Мой сайт  
 
 Посетите мой сайт на GitHub Pages:  
-[Твой сайт](https://yourusername.github.io)
+[Твой сайт](https://yourusername.github.io)  
 
 ---
 
-Приятно познакомиться! Буду рад обсудить возможное сотрудничество или предложения по работе!
+Приятно познакомиться! Буду рад обсудить возможное сотрудничество или предложения по работе!  
+
 
 
 
