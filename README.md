@@ -34,20 +34,6 @@
 2. [Проект 2](https://github.com/yourusername/project2) - Описание проекта.  
 3. [Проект 3](https://github.com/yourusername/project3) - Описание проекта.  
 
-## 📈 GitHub статистика  
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)  
-
-<details>
-<summary><b>Подробнее</b></summary>  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tim2015web&theme=default)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tim2015web&theme=default)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tim2015web&theme=default&utcOffset=8)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tim2015web&theme=default)  
-
-</details>  
-
 ## 📞 Контакты  
 
 - Email: [tim2015web@gmail.com](mailto:tim2015web@gmail.com)  
@@ -59,9 +45,14 @@
 Посетите мой сайт на GitHub Pages:  
 [Твой сайт](https://yourusername.github.io)  
 
+## 📈 GitHub статистика  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tim2015web&theme=default)  
+
 ---
 
 Приятно познакомиться! Буду рад обсудить возможное сотрудничество или предложения по работе. Рассматриваю только удаленный формат работы.  
+
 
 
 
