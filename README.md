@@ -76,15 +76,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<details>
+<summary>Старая версия</summary>
 
 # Привет всем, я Илья <img src="https://raw.githubusercontent.com/Tim2015web/Tim2015web/main/assets/smaile__hi.gif" height="30px">
 
@@ -269,4 +262,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tim2015web&theme=default&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tim2015web&theme=default)
 
+</details>
 </details>
